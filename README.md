@@ -1,1 +1,5 @@
 # Instacart-Market-Basket-Analysis
+
+
+
+Instacart, a grocery ordering and delivery app, aims to make it easy to fill your refrigerator and pantry with your personal favorites and staples when you need them. After selecting products through the Instacart app, personal shoppers review your order and do the in-store shopping and delivery for you. Currently they use transac3onal data to develop models that predict which products a user will buy again, try for the first time, or add to their cart next during a session. The objective is to address two research questions: 1) Predict whether a product will be reordered or not in the future by the customer.2) Predict which department will the next product ordered belong to.The ability to identify which products the customers are likely to purchase again, and automatically adding those to cart through obtained predic3ons or provide a seamless interface for doing so will enhance their user experience. These predictions of the products the customers are likely to order can be send in personalized communications to customers reminding them to order again, by highlighting the predicted products in those communications.
